@@ -1,0 +1,22 @@
+{
+  "name": "vrex-color",
+  "version": "0.0.1",
+  "description": "color base",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vrex-dev/vrex-color.git"
+  },
+  "keywords": [
+    "color"
+  ],
+  "author": "vrex-dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vrex-dev/vrex-color/issues"
+  },
+  "homepage": "https://github.com/vrex-dev/vrex-color#readme"
+}
